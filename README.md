@@ -17,16 +17,13 @@ Gyroscope Module MPU6050
 Jumper Wires
 Arduino UNO R3
 3D-printed Plastic Components
-The project utilizes a servo motor 90SG for motion control. The servo motor provides precise control over angular position, velocity, and acceleration, making it suitable for applications requiring high efficiency and accuracy.
 
 ## Servo Motor 90SG
 The motor we are using is the 90SG servo motor, which is a standard electric motor equipped with servo control mechanism. This motor is a rotary actuator that allows precise control over angular or linear position.
 Description
 The SG90 servo motor has three pins: S, Vcc, and GND. The S pin is the signal pin that connects to the PWM pin of the Arduino. The +ve and -ve pins connect to 5 volts and GND on the Arduino, respectively. The wiring scheme for the servo motor is provided in Figure 2.
-<div style="display: flex;">
-    <img src="Data\Picture1.png" alt="Image 1" style="width: 50%;">
-    <img src="Data\Picture2.png" alt="Image 2" style="width: 50%;">
-</div>
+![Image 1](Data\Picture1.png) ![Image 2](Data\Picture2.png)
+
 
 The connection of the motor to the Arduino is illustrated in Figure 3.
 <!-- <div style="display: flex;">
@@ -42,4 +39,4 @@ Gear Type: Metal
 Rotation: 180-0 degrees
 Motor Weight: 13.4 grams
 
-These specifications provide a comprehensive overview of the 90SG servo motor, including its voltage range, torque capabilities, speed, gear type, rotation angle, and weight. For further details, please refer to the motor’s documentation.
+
