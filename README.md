@@ -5,7 +5,6 @@ Utilizing stabilizing mechanisms in aerial platforms for motion control. This pr
 ![Self-Balancing Robot](Data/Stabilizer_Spoon.gif)
 <video width="320" height="240" controls>
   <source src="Data/Stabilizer_Spoon.gif" type="video/gif">
-  Your browser does not support the video tag.
 </video>
 
 ## Objectives
@@ -22,8 +21,10 @@ Arduino UNO R3
 The motor we are using is the 90SG servo motor, which is a standard electric motor equipped with servo control mechanism. This motor is a rotary actuator that allows precise control over angular or linear position.
 Description
 The SG90 servo motor has three pins: S, Vcc, and GND. The S pin is the signal pin that connects to the PWM pin of the Arduino. The +ve and -ve pins connect to 5 volts and GND on the Arduino, respectively. The wiring scheme for the servo motor is provided in Figure 2.
-![Image 1](Data\Picture1.png) ![Image 2](Data\Picture2.png)
-
+<div style="display: flex;">
+    <img src="Data\Picture1.png" alt="Image 1" style="width: 30%;">
+    <img src="Data\Picture2.png" alt="Image 2" style="width: 30%;">
+</div>
 
 The connection of the motor to the Arduino is illustrated in Figure 3.
 <!-- <div style="display: flex;">
