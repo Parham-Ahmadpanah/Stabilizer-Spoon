@@ -27,7 +27,7 @@ The SG90 servo motor has three pins: S, Vcc, and GND. The S pin is the signal pi
 
 The connection of the motor to the Arduino is illustrated in Figure 3.
 <div style="display: flex;">
-    <img src="Data\Picture3.png" alt="Image 1" style="width: 100%;">
+    <img src="Data\Picture3.png" alt="Image 1">
 </div>
 Specifications of Motor 90SG:
 Operating Voltage: 4.8 to 6 volts (typically 5 volts)
@@ -40,11 +40,11 @@ Motor Weight: 13.4 grams
 ## Sensor Analysis
 Now, let’s delve into the sensor used in the robot. Our selected sensor is the MPU6050 module, which is a gyroscope type sensor. This module is a 6-axis motion tracking device that combines a 3-axis gyroscope, a 3-axis accelerometer, and a digital motion processor in a compact package. Additionally, it features an onboard temperature sensor. It has an I2C interface for communication with microcontrollers.
 <div style="display: flex;">
-    <img src="Data\Picture4.png" alt="Image 1" style="width: 100%;">
+    <img src="Data\Picture4.png" alt="Image 1">
 </div>
 The MPU6050 sensor provides precise motion tracking capabilities, making it suitable for applications requiring accurate movement monitoring and control. Its compact design and integrated features make it a versatile choice for robotics and motion control projects.
 <div style="display: flex;">
-    <img src="Data\Picture5.png" alt="Image 1" style="width: 100%;">
+    <img src="Data\Picture5.png" alt="Image 1">
 </div>
 
 ## Noise Filter
