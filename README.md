@@ -2,7 +2,7 @@
 ## Description
 Utilizing stabilizing mechanisms in aerial platforms for motion control. This project aims to develop a stabilizing mechanism to mitigate unwanted movements and vibrations. The primary focus is on utilizing a microcontroller and servo motor to achieve this goal. The project’s outcome is expected to contribute to the development of more affordable and efficient stabilizing mechanisms for various industries.
 
-![Self-Balancing Robot](Data/Stabilizer_Spoon.gif)
+![Stabilizer-Spoon](Data/Stabilizer_Spoon.gif)
 <video width="320" height="240" controls>
   <source src="Data/Stabilizer_Spoon.gif" type="video/gif">
 </video>
